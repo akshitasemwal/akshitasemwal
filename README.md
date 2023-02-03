@@ -1,4 +1,4 @@
-<p><img align="center"  width="100%" height="10%" src="https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif" alt=" " /></p>
+!<p><img align="center"  width="100%" height="10%" src="https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif" alt=" " /></p>
 <h1 align="center">Hi 👋, I'm Akshita Semwal</h1>
 <h3 align="center">A passionate frontend developer and DSA enthusiast.</h3>
 
@@ -14,5 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitasemwal&show_icons=true&locale=en" alt="akshitasemwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitasemwal&" alt="akshitasemwal" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitasemwal&label=Profile%20views&color=0e75b6&style=flat" alt="akshitasemwal" /> </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshitasemwal&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasemwal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
