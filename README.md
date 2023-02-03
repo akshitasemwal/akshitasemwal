@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=akshitasemwal)
-!<p><img align="center"  width="100%" height="10%" src="https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif" alt=" " /></p>
 <h1 align="center">Hi 👋, I'm Akshita Semwal</h1>
-- 📝 I love to code.
+- 📝 I love to code. <br>
 - 💬 Ask me about <strong> Java, Front-end development, Machine learning!</strong>
 
 📫 Contact me at **akshitasemwal@gmail.com**
