@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=akshitasemwal)
-<h1 align="center">Hi 👋, I'm Akshita Semwal</h1>
-- 📝 I love to code and make new things! <br>
-- 💬 Ask me about <strong> Java, MERN stack development and machine learning!</strong>
+<h1 align="center">Hiya! I'm Akshita Semwal🐱‍💻</h1>
+- 📝 I love coding, brainstorming and making new things! <br>
+- 💬 Ask me about <strong> Java and MERN stack development:)</strong>
 
 📫 Contact me at **akshitasemwal@gmail.com**
 
