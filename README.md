@@ -5,7 +5,7 @@
 - 🌱 I love coding, brainstorming and making new things! <br>
 - 💬 Ask me about <strong> Java, DSA and anything about MERN stack development and other web technologies:)</strong>
 <br>
-- 📫 Contact me at **akshitasemwal@gmail.com**
+📫 Contact me at <b>akshitasemwal@gmail.com<b>
 
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
@@ -25,4 +25,3 @@
 </a>
 </div>
 
-![snake gif](https://github.com/Viveksati5143/akshitasemwal/blob/output/github-contribution-grid-snake2.svg)
