@@ -5,7 +5,7 @@
 - 🌱 I love coding, brainstorming and making new things! <br>
 - 💬 Ask me about <strong> Java, DSA and anything about MERN stack development and other web technologies:)</strong>
 <br>
-📫 Contact me at <a href="www.akshitasemwal@gmail.com">akshitasemwal@gmail.com</a>
+📫 Contact me at <a href="akshitasemwal@gmail.com">akshitasemwal@gmail.com</a>
 
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
